@@ -1,7 +1,6 @@
 # GameDevs
 
 
-nagas
-
-
-nagas pt 2
+## [0.1] - 16.1.2024
+### Added 
+- Simply asset, and first scene, WORKING 
